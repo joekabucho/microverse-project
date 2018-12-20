@@ -1,0 +1,24 @@
+/**
+ * index.scss
+ * - Add any styles you want here!
+ */
+body {
+  background-image: url(https://media.boingboing.net/wp-content/uploads/2018/05/cool-background1.png);
+  background-color: #cccccc;
+  height: 500px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#header-img {
+  height: 100px;
+  width: 100px;
+  -webkit-box-shadow: 1px 5px 15px 5px #000000;
+  box-shadow: 1px 5px 15px 5px #000000;
+  top: 0;
+}
+
+#form {
+  background-color: white;
+}
